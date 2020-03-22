@@ -1,2 +1,1 @@
-# css
-cascadingstylesheet
+# cascading style sheet
