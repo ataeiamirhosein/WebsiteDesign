@@ -1,9 +1,9 @@
 
-## cascading style sheet
+## cascading style sheet file
 
 - w3.css  
 
-## cascading style sheet
+## index files
 
 - band.php
 - soon.php
